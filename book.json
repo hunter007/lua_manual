@@ -1,0 +1,87 @@
+{
+    "title": "Lua 5.3 参考手册",
+    "author": "Roberto Ierusalimschy, Luiz Henrique de Figueiredo, Waldemar Celes. hunter007 翻译",
+    "description": "lua 5.3官方参考手册的简体中文翻译",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "我的网站": "https://github.com/hunter007"
+        }
+    },
+    "plugins": [
+        "-sharing",
+        "-splitter",
+        "-anchors",
+        "copy-code-button",
+        "github",
+        "-github-buttons",
+        "donate",
+        "-sharing-plus",
+        "-anchor-navigation-ex",
+        "favicon",
+        "-expandable-chapters-small",
+        "toggle-chapters"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/hunter007"
+        },
+        "github-buttons": {
+            "buttons": [{
+                "user": "hunter007",
+                "repo": "glory",
+                "type": "star",
+                "size": "small",
+                "count": true
+                }
+            ]
+        },
+        "donate": {
+            "alipay": "./images/donate/alipay.png",
+            "wechat": "./images/donate/weixin.png",
+            "title": "",
+            "button": "赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false,
+            "all": [
+                "google", "facebook", "weibo", "twitter",
+                "qq", "qzone", "linkedin", "pocket"
+            ]
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false
+        },
+        "favicon":{
+            "shortcut": "./source/images/favicon.jpg",
+            "bookmark": "./source/images/favicon.jpg",
+            "appleTouch": "./source/images/apple-touch-icon.jpg",
+            "appleTouchMore": {
+                "120x120": "./source/images/apple-touch-icon.jpg",
+                "180x180": "./source/images/apple-touch-icon.jpg"
+            }
+        }
+    }
+}
