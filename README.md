@@ -1,6 +1,6 @@
 # 简介
 
-![Lua logo](../images/lua_logo.gif)
+![Lua logo](./images/lua_logo.gif)
 
 Lua 是一个强大的、高效的、轻量级、可嵌入的脚本语言，支持过程式编程、面向对象编程、函数式编程、数据驱动编程和数据描述。
 
@@ -9,7 +9,7 @@ Lua 将简单的过程式语法和基于关联数组和可扩展语义的强大�
 
 #### LuaRocks ####
 
-![LuaRocks logo](../images/luarocks_logo.svg)
+![LuaRocks logo](./images/luarocks_logo.svg)
 
 `LuaRocks`是 Lua 的包管理器。LuaRocks 支持创建和安装 Lua 模块（一个自包含的包，叫做 rocks）。It allows you to create and install Lua modules as self-contained packages called rocks. You can download and install LuaRocks on Unix and Windows. Get started
 
